@@ -1,6 +1,7 @@
 body {
     background-color: red;
     color: green;
+    font-family: 'Space Mono', monospace;
 }
 a{
  color:white;   
