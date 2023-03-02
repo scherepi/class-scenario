@@ -6,6 +6,6 @@ body {
 a{
  color: green;   
 }
-ul {
-    padding-left: 50px;
+#links {
+    padding-left: 300px;
 }
