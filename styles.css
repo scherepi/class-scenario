@@ -1,9 +1,9 @@
 body {
     background-color: black;
-    color: white;
+    color: green;
 }
 a{
- color:green;   
+ color:white;   
 }
 ul {
     padding-left: 50px;
